@@ -1,0 +1,202 @@
+Ordem;Data;Material;Quantidade;Operador;Status;Tempo_Processo
+8000101;01/10/2025;Eixo de Aço 10mm;500;Carlos Silva;Concluído;120
+8000102;01/10/2025;Rolamento Esférico;200;Mariana Souza;Concluído;45
+8000103;01/10/2025;Engrenagem Cônica;150;João Pedro;Em Processo;0
+8000104;02/10/2025;Placa de Base;50;Carlos Silva;Concluído;180
+8000105;02/10/2025;Parafuso Especial M12;1000;Ana Paula;Parado;30
+8000106;02/10/2025;Eixo de Aço 10mm;500;Mariana Souza;Concluído;115
+8000107;03/10/2025;Bucha de Bronze;300;Roberto Lima;Concluído;90
+8000108;03/10/2025;Rolamento Esférico;200;João Pedro;Erro;15
+8000109;03/10/2025;Carcaça de Alumínio;80;Carlos Silva;Concluído;240
+8000110;04/10/2025;Eixo de Aço 10mm;500;Ana Paula;Concluído;125
+8000111;04/10/2025;Pino Guia;600;Roberto Lima;Em Processo;0
+8000112;05/10/2025;Engrenagem Cônica;150;Mariana Souza;Concluído;160
+8000113;05/10/2025;Placa de Base;50;João Pedro;Concluído;175
+8000114;05/10/2025;Mola de Compressão;2000;Carlos Silva;Planejado;0
+8000115;06/10/2025;Eixo de Aço 10mm;500;Ana Paula;Concluído;118
+8000116;06/10/2025;Parafuso Especial M12;1000;Roberto Lima;Concluído;210
+8000117;06/10/2025;Bucha de Bronze;300;Mariana Souza;Concluído;88
+8000118;07/10/2025;Carcaça de Alumínio;80;João Pedro;Parado;60
+8000119;07/10/2025;Eixo de Aço 10mm;500;Carlos Silva;Concluído;122
+8000120;07/10/2025;Rolamento Esférico;200;Ana Paula;Concluído;42
+8000121;08/10/2025;Pino Guia;600;Roberto Lima;Concluído;150
+8000122;08/10/2025;Engrenagem Cônica;150;Mariana Souza;Concluído;155
+8000123;08/10/2025;Placa de Base;50;João Pedro;Erro;20
+8000124;09/10/2025;Mola de Compressão;2000;Carlos Silva;Concluído;300
+8000125;09/10/2025;Eixo de Aço 10mm;500;Ana Paula;Concluído;120
+8000126;09/10/2025;Bucha de Bronze;300;Roberto Lima;Em Processo;0
+8000127;10/10/2025;Rolamento Esférico;200;Mariana Souza;Concluído;44
+8000128;10/10/2025;Carcaça de Alumínio;80;João Pedro;Concluído;235
+8000129;10/10/2025;Parafuso Especial M12;1000;Carlos Silva;Concluído;215
+8000130;11/10/2025;Eixo de Aço 10mm;500;Ana Paula;Planejado;0
+8000131;11/10/2025;Pino Guia;600;Roberto Lima;Concluído;148
+8000132;11/10/2025;Engrenagem Cônica;150;Mariana Souza;Concluído;162
+8000133;12/10/2025;Placa de Base;50;João Pedro;Concluído;180
+8000134;12/10/2025;Mola de Compressão;2000;Carlos Silva;Concluído;290
+8000135;12/10/2025;Eixo de Aço 10mm;500;Ana Paula;Em Processo;0
+8000136;13/10/2025;Bucha de Bronze;300;Roberto Lima;Concluído;92
+8000137;13/10/2025;Rolamento Esférico;200;Mariana Souza;Parado;10
+8000138;13/10/2025;Carcaça de Alumínio;80;João Pedro;Concluído;245
+8000139;14/10/2025;Parafuso Especial M12;1000;Carlos Silva;Concluído;208
+8000140;14/10/2025;Eixo de Aço 10mm;500;Ana Paula;Concluído;119
+8000141;14/10/2025;Pino Guia;600;Roberto Lima;Concluído;152
+8000142;15/10/2025;Engrenagem Cônica;150;Mariana Souza;Erro;5
+8000143;15/10/2025;Placa de Base;50;João Pedro;Concluído;178
+8000144;15/10/2025;Mola de Compressão;2000;Carlos Silva;Em Processo;0
+8000145;16/10/2025;Eixo de Aço 10mm;500;Ana Paula;Concluído;121
+8000146;16/10/2025;Bucha de Bronze;300;Roberto Lima;Concluído;89
+8000147;16/10/2025;Rolamento Esférico;200;Mariana Souza;Concluído;46
+8000148;16/10/2025;Carcaça de Alumínio;80;João Pedro;Planejado;0
+8000149;17/10/2025;Parafuso Especial M12;1000;Carlos Silva;Concluído;212
+8000150;17/10/2025;Eixo de Aço 10mm;500;Ana Paula;Concluído;123
+Ordem;Data;Material;Quantidade;Operador;Status;Tempo_Processo
+8000101;02/01/2024;Eixo de Aço 10mm;500;Carlos Silva;Concluído;115
+8000102;05/01/2024;Rolamento Esférico;200;Mariana Souza;Concluído;48
+8000103;12/01/2024;Engrenagem Cônica;150;João Pedro;Erro;20
+8000104;20/01/2024;Placa de Base;50;Carlos Silva;Concluído;175
+8000105;03/02/2024;Parafuso Especial M12;1000;Ana Paula;Concluído;210
+8000106;15/02/2024;Bucha de Bronze;300;Roberto Lima;Concluído;95
+8000107;28/02/2024;Carcaça de Alumínio;80;Carlos Silva;Parado;45
+8000108;05/03/2024;Pino Guia;600;Ana Paula;Concluído;145
+8000109;12/03/2024;Mola de Compressão;2000;Mariana Souza;Concluído;310
+8000110;25/03/2024;Eixo de Aço 10mm;500;Roberto Lima;Concluído;125
+8000111;02/04/2024;Rolamento Esférico;200;João Pedro;Em Processo;0
+8000112;10/04/2024;Engrenagem Cônica;150;Carlos Silva;Concluído;158
+8000113;18/04/2024;Placa de Base;50;Ana Paula;Concluído;185
+8000114;25/04/2024;Parafuso Especial M12;1000;Roberto Lima;Erro;10
+8000115;05/05/2024;Bucha de Bronze;300;Mariana Souza;Concluído;88
+8000116;12/05/2024;Carcaça de Alumínio;80;João Pedro;Concluído;235
+8000117;20/05/2024;Pino Guia;600;Carlos Silva;Concluído;155
+8000118;01/06/2024;Mola de Compressão;2000;Ana Paula;Planejado;0
+8000119;10/06/2024;Eixo de Aço 10mm;500;Mariana Souza;Concluído;118
+8000120;18/06/2024;Rolamento Esférico;200;Roberto Lima;Concluído;44
+8000121;25/06/2024;Engrenagem Cônica;150;João Pedro;Concluído;165
+8000122;02/07/2024;Placa de Base;50;Carlos Silva;Parado;60
+8000123;12/07/2024;Parafuso Especial M12;1000;Ana Paula;Concluído;205
+8000124;20/07/2024;Bucha de Bronze;300;Roberto Lima;Concluído;92
+8000125;28/07/2024;Carcaça de Alumínio;80;Mariana Souza;Concluído;245
+8000126;05/08/2024;Pino Guia;600;João Pedro;Erro;25
+8000127;15/08/2024;Mola de Compressão;2000;Carlos Silva;Concluído;295
+8000128;25/08/2024;Eixo de Aço 10mm;500;Ana Paula;Concluído;122
+8000129;02/09/2024;Rolamento Esférico;200;Roberto Lima;Concluído;46
+8000130;10/09/2024;Engrenagem Cônica;150;Mariana Souza;Em Processo;0
+8000131;18/09/2024;Placa de Base;50;João Pedro;Concluído;178
+8000132;25/09/2024;Parafuso Especial M12;1000;Carlos Silva;Concluído;215
+8000133;05/10/2024;Bucha de Bronze;300;Ana Paula;Concluído;89
+8000134;12/10/2024;Carcaça de Alumínio;80;Roberto Lima;Concluído;242
+8000135;20/10/2024;Pino Guia;600;Mariana Souza;Concluído;148
+8000136;28/10/2024;Mola de Compressão;2000;João Pedro;Concluído;305
+8000137;05/11/2024;Eixo de Aço 10mm;500;Carlos Silva;Planejado;0
+8000138;12/11/2024;Rolamento Esférico;200;Ana Paula;Concluído;43
+8000139;20/11/2024;Engrenagem Cônica;150;Roberto Lima;Concluído;162
+8000140;28/11/2024;Placa de Base;50;Mariana Souza;Erro;15
+8000141;05/12/2024;Parafuso Especial M12;1000;João Pedro;Concluído;208
+8000142;12/12/2024;Bucha de Bronze;300;Carlos Silva;Concluído;91
+8000143;20/12/2024;Carcaça de Alumínio;80;Ana Paula;Concluído;238
+8000144;03/01/2025;Pino Guia;600;Roberto Lima;Parado;30
+8000145;10/01/2025;Mola de Compressão;2000;Mariana Souza;Concluído;298
+8000146;15/01/2025;Eixo de Aço 10mm;500;João Pedro;Concluído;120
+8000147;22/01/2025;Rolamento Esférico;200;Carlos Silva;Concluído;45
+8000148;30/01/2025;Engrenagem Cônica;150;Ana Paula;Concluído;159
+8000149;05/02/2025;Placa de Base;50;Roberto Lima;Concluído;182
+8000150;12/02/2025;Parafuso Especial M12;1000;Mariana Souza;Concluído;212
+8000151;20/02/2025;Bucha de Bronze;300;João Pedro;Em Processo;0
+8000152;28/02/2025;Carcaça de Alumínio;80;Carlos Silva;Concluído;240
+8000153;05/03/2025;Pino Guia;600;Ana Paula;Concluído;152
+8000154;12/03/2025;Mola de Compressão;2000;Roberto Lima;Concluído;300
+8000155;20/03/2025;Eixo de Aço 10mm;500;Mariana Souza;Erro;12
+8000156;28/03/2025;Rolamento Esférico;200;João Pedro;Concluído;47
+8000157;02/04/2025;Engrenagem Cônica;150;Carlos Silva;Concluído;161
+8000158;10/04/2025;Placa de Base;50;Ana Paula;Planejado;0
+8000159;18/04/2025;Parafuso Especial M12;1000;Roberto Lima;Concluído;209
+8000160;25/04/2025;Bucha de Bronze;300;Mariana Souza;Concluído;90
+8000161;02/05/2025;Carcaça de Alumínio;80;João Pedro;Concluído;239
+8000162;10/05/2025;Pino Guia;600;Carlos Silva;Concluído;148
+8000163;18/05/2025;Mola de Compressão;2000;Ana Paula;Concluído;302
+8000164;25/05/2025;Eixo de Aço 10mm;500;Roberto Lima;Concluído;122
+8000165;02/06/2025;Rolamento Esférico;200;Mariana Souza;Parado;15
+8000166;10/06/2025;Engrenagem Cônica;150;João Pedro;Concluído;163
+8000167;18/06/2025;Placa de Base;50;Carlos Silva;Concluído;177
+8000168;25/06/2025;Parafuso Especial M12;1000;Ana Paula;Concluído;211
+8000169;02/07/2025;Bucha de Bronze;300;Roberto Lima;Concluído;93
+8000170;10/07/2025;Carcaça de Alumínio;80;Mariana Souza;Concluído;241
+8000171;18/07/2025;Pino Guia;600;João Pedro;Erro;20
+8000172;25/07/2025;Mola de Compressão;2000;Carlos Silva;Concluído;308
+8000173;02/08/2025;Eixo de Aço 10mm;500;Ana Paula;Concluído;119
+8000174;10/08/2025;Rolamento Esférico;200;Roberto Lima;Concluído;46
+8000175;18/08/2025;Engrenagem Cônica;150;Mariana Souza;Em Processo;0
+8000176;25/08/2025;Placa de Base;50;João Pedro;Concluído;181
+8000177;02/09/2025;Parafuso Especial M12;1000;Carlos Silva;Concluído;214
+8000178;10/09/2025;Bucha de Bronze;300;Ana Paula;Concluído;88
+8000179;18/09/2025;Carcaça de Alumínio;80;Roberto Lima;Concluído;237
+8000180;25/09/2025;Pino Guia;600;Mariana Souza;Concluído;153
+8000181;02/10/2025;Mola de Compressão;2000;João Pedro;Concluído;297
+8000182;10/10/2025;Eixo de Aço 10mm;500;Carlos Silva;Planejado;0
+8000183;18/10/2025;Rolamento Esférico;200;Ana Paula;Concluído;44
+8000184;25/10/2025;Engrenagem Cônica;150;Roberto Lima;Concluído;164
+8000185;02/11/2025;Placa de Base;50;Mariana Souza;Erro;10
+8000186;10/11/2025;Parafuso Especial M12;1000;João Pedro;Concluído;207
+8000187;18/11/2025;Bucha de Bronze;300;Carlos Silva;Concluído;94
+8000188;25/11/2025;Carcaça de Alumínio;80;Ana Paula;Concluído;243
+8000189;02/12/2025;Pino Guia;600;Roberto Lima;Parado;50
+8000190;10/12/2025;Mola de Compressão;2000;Mariana Souza;Concluído;301
+8000191;15/01/2024;Eixo de Aço 10mm;500;João Pedro;Concluído;121
+8000192;22/01/2024;Rolamento Esférico;200;Carlos Silva;Concluído;49
+8000193;05/02/2024;Engrenagem Cônica;150;Ana Paula;Concluído;157
+8000194;15/02/2024;Placa de Base;50;Roberto Lima;Concluído;179
+8000195;25/02/2024;Parafuso Especial M12;1000;Mariana Souza;Concluído;213
+8000196;05/03/2024;Bucha de Bronze;300;João Pedro;Em Processo;0
+8000197;15/03/2024;Carcaça de Alumínio;80;Carlos Silva;Concluído;236
+8000198;25/03/2024;Pino Guia;600;Ana Paula;Concluído;149
+8000199;05/04/2024;Mola de Compressão;2000;Roberto Lima;Concluído;303
+8000200;15/04/2024;Eixo de Aço 10mm;500;Mariana Souza;Erro;18
+8000201;25/04/2024;Rolamento Esférico;200;João Pedro;Concluído;42
+8000202;05/05/2024;Engrenagem Cônica;150;Carlos Silva;Concluído;160
+8000203;15/05/2024;Placa de Base;50;Ana Paula;Concluído;183
+8000204;25/05/2024;Parafuso Especial M12;1000;Roberto Lima;Planejado;0
+8000205;05/06/2024;Bucha de Bronze;300;Mariana Souza;Concluído;91
+8000206;15/06/2024;Carcaça de Alumínio;80;João Pedro;Concluído;244
+8000207;25/06/2024;Pino Guia;600;Carlos Silva;Concluído;151
+8000208;05/07/2024;Mola de Compressão;2000;Ana Paula;Parado;25
+8000209;15/07/2024;Eixo de Aço 10mm;500;Roberto Lima;Concluído;117
+8000210;25/07/2024;Rolamento Esférico;200;Mariana Souza;Concluído;45
+8000211;05/08/2024;Engrenagem Cônica;150;João Pedro;Concluído;159
+8000212;15/08/2024;Placa de Base;50;Carlos Silva;Concluído;176
+8000213;25/08/2024;Parafuso Especial M12;1000;Ana Paula;Concluído;206
+8000214;05/09/2024;Bucha de Bronze;300;Roberto Lima;Erro;5
+8000215;15/09/2024;Carcaça de Alumínio;80;Mariana Souza;Concluído;240
+8000216;25/09/2024;Pino Guia;600;João Pedro;Concluído;154
+8000217;05/10/2024;Mola de Compressão;2000;Carlos Silva;Em Processo;0
+8000218;15/10/2024;Eixo de Aço 10mm;500;Ana Paula;Concluído;123
+8000219;25/10/2024;Rolamento Esférico;200;Roberto Lima;Concluído;46
+8000220;05/11/2024;Engrenagem Cônica;150;Mariana Souza;Concluído;161
+8000221;15/11/2024;Placa de Base;50;João Pedro;Concluído;180
+8000222;25/11/2024;Parafuso Especial M12;1000;Carlos Silva;Concluído;211
+8000223;05/12/2024;Bucha de Bronze;300;Ana Paula;Concluído;93
+8000224;15/12/2024;Carcaça de Alumínio;80;Roberto Lima;Concluído;239
+8000225;05/01/2025;Pino Guia;600;Mariana Souza;Parado;40
+8000226;12/01/2025;Mola de Compressão;2000;João Pedro;Concluído;304
+8000227;18/01/2025;Eixo de Aço 10mm;500;Carlos Silva;Concluído;119
+8000228;25/01/2025;Rolamento Esférico;200;Ana Paula;Concluído;44
+8000229;02/02/2025;Engrenagem Cônica;150;Roberto Lima;Erro;12
+8000230;10/02/2025;Placa de Base;50;Mariana Souza;Concluído;182
+8000231;18/02/2025;Parafuso Especial M12;1000;João Pedro;Concluído;210
+8000232;25/02/2025;Bucha de Bronze;300;Carlos Silva;Concluído;89
+8000233;05/03/2025;Carcaça de Alumínio;80;Ana Paula;Planejado;0
+8000234;12/03/2025;Pino Guia;600;Roberto Lima;Concluído;150
+8000235;20/03/2025;Mola de Compressão;2000;Mariana Souza;Concluído;299
+8000236;28/03/2025;Eixo de Aço 10mm;500;João Pedro;Concluído;121
+8000237;05/04/2025;Rolamento Esférico;200;Carlos Silva;Concluído;47
+8000238;12/04/2025;Engrenagem Cônica;150;Ana Paula;Concluído;158
+8000239;20/04/2025;Placa de Base;50;Roberto Lima;Concluído;178
+8000240;28/04/2025;Parafuso Especial M12;1000;Mariana Souza;Em Processo;0
+8000241;05/05/2025;Bucha de Bronze;300;João Pedro;Concluído;92
+8000242;12/05/2025;Carcaça de Alumínio;80;Carlos Silva;Concluído;242
+8000243;20/05/2025;Pino Guia;600;Ana Paula;Concluído;153
+8000244;28/05/2025;Mola de Compressão;2000;Roberto Lima;Erro;30
+8000245;05/06/2025;Eixo de Aço 10mm;500;Mariana Souza;Concluído;118
+8000246;12/06/2025;Rolamento Esférico;200;João Pedro;Concluído;43
+8000247;20/06/2025;Engrenagem Cônica;150;Carlos Silva;Concluído;163
+8000248;28/06/2025;Placa de Base;50;Ana Paula;Parado;55
+8000249;05/07/2025;Parafuso Especial M12;1000;Roberto Lima;Concluído;208
+8000250;12/07/2025;Bucha de Bronze;300;Mariana Souza;Concluído;90
